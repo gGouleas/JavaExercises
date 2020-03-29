@@ -1,1 +1,1 @@
-This project stores and prints various data for a school 
+This project stores and prints various data about a school 
