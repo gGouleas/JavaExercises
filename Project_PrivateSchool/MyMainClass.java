@@ -123,7 +123,6 @@ public class MyMainClass {
                 Student student = new Student(fname, lname, dateOfBirth, fees);
                 ListOfObjects.addStudents(student);
                 course.addStudent(student);
-                // student.setCourse(course);
             } while (true);
             count++;
         } while (true);
